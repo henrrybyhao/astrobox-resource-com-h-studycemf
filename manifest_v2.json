@@ -1,0 +1,93 @@
+{
+  "item": {
+    "id": "com.h.studycemf",
+    "restype": "quick_app",
+    "name": "腕上学习",
+    "description": "腕上学习（免费）支持古诗词和英语单词的导入暂时只支持插件的导入，制作不易希望多多赞助",
+    "preview": [
+      "media/redmi_watch-2026-10-04-22-35-39.png",
+      "media/redmi_watch-2026-10-04-22-35-40.png",
+      "media/redmi_watch-2026-10-04-22-35-45.png",
+      "media/redmi_watch-2026-10-04-22-35-46.png",
+      "media/redmi_watch-2026-10-04-22-35-50.png",
+      "media/xiaomi_band_10-2026-10-04-22-36-06.png",
+      "media/xiaomi_band_10-2026-10-04-22-36-07.png",
+      "media/xiaomi_band_10-2026-10-04-22-36-12.png",
+      "media/xiaomi_band_10-2026-10-04-22-36-16.png",
+      "media/xiaomi_band_10-2026-10-04-22-36-17.png",
+      "media/xiaomi_band_pro-2026-10-04-22-34-41.png",
+      "media/xiaomi_band_pro-2026-10-04-22-34-42.png",
+      "media/xiaomi_band-2026-10-04-22-37-10.png",
+      "media/xiaomi_band-2026-10-04-22-37-18.png",
+      "media/xiaomi_band-2026-10-04-22-37-19.png"
+    ],
+    "icon": "media/图标.png",
+    "cover": "media/学习_compressed.png",
+    "author": [
+      {
+        "name": "2848944925",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "赞助",
+      "url": "https://afdian.com/a/velabyh",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.h.studycemf.release.1.1.2.rpk",
+      "versionCode": 112
+    },
+    "xmrw5xring": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.h.studycemf.release.1.1.2.rpk",
+      "versionCode": 112
+    },
+    "xmrw6": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.h.studycemf.release.1.1.2.rpk",
+      "versionCode": 112
+    },
+    "xmb10": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.h.studycemf.release.1.1.2.rpk",
+      "versionCode": 112
+    },
+    "xmb10nfc": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.h.studycemf.release.1.1.2.rpk",
+      "versionCode": 112
+    },
+    "xmb10p": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.h.studycemf.release.1.1.2.rpk",
+      "versionCode": 112
+    },
+    "xmb11": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.h.studycemf.release.1.1.2.rpk",
+      "versionCode": 112
+    },
+    "xmb11nfc": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.h.studycemf.release.1.1.2.rpk",
+      "versionCode": 112
+    },
+    "xmb9": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.h.studycemf.release.1.1.2.rpk",
+      "versionCode": 112
+    },
+    "xmb9p": {
+      "version": "1.1.2",
+      "file_name": "downloads/com.h.studycemf.release.1.1.2.rpk",
+      "versionCode": 112
+    }
+  },
+  "ext": {}
+}
